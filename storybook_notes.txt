@@ -1,0 +1,7 @@
+Storybook Notes
+
+- requires a framework: either React, Vue, Angular, or HTML, etc
+- https://support.invisionapp.com/hc/en-us/sections/360010787291/
+- https://support.invisionapp.com/hc/en-us/articles/360028510211-Configuring-the-Storybook-CLI-Based-Integration
+- https://learn.invisionapp.com/courses/dsm-inspect
+- https://storybook.js.org/docs/html/get-started/introduction
